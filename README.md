@@ -16,3 +16,10 @@ To install the required python modules you can create a virtual environment and 
 
 5. Install ffmpeg for mp3 to wav conversion:
 `brew install ffmpeg`
+
+
+## API Keys
+
+In order to use the google knowledge graph create an api key and store it in .api_key file
+
+Follow instructions at `https://developers.google.com/knowledge-graph/prereqs`
