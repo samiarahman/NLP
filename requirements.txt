@@ -1,0 +1,4 @@
+gTTS
+nltk
+jupyter
+spacy
