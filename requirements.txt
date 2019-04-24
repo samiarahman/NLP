@@ -1,4 +1,7 @@
 gTTS
+pyaudio
+SpeechRecognition
+pydub
 nltk
 jupyter
 spacy

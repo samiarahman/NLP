@@ -13,3 +13,6 @@ To install the required python modules you can create a virtual environment and 
 
 4. Install python mpg321 mp3 player:
 `brew install mpg321`
+
+5. Install ffmpeg for mp3 to wav conversion:
+`brew install ffmpeg`
