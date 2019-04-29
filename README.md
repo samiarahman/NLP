@@ -17,6 +17,9 @@ To install the required python modules you can create a virtual environment and 
 5. Install ffmpeg for mp3 to wav conversion:
 `brew install ffmpeg`
 
+6. Install ps to png converter
+`brew install imagemagick`
+`brew install gs`
 
 ## API Keys
 
